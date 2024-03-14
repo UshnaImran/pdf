@@ -1,1 +1,1 @@
-print(Hi)
+food = input("What food you like?")
